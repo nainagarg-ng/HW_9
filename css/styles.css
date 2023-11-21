@@ -1,0 +1,23 @@
+.tooltip {
+    position: absolute;
+    text-align: center;
+    font: 12px sans-serif;
+    /*  pointer-events: none;	This line needs to be removed */
+}
+.tooltip h3,h4 {
+    text-align: left;
+    font: 16px sans-serif;
+    font-weight: bold;
+}
+.tooltip h4 {
+    font: 10px sans-serif;
+}
+
+.table {
+    font-size: 0.8em;
+}
+
+.x-axis, .y-axis {
+    font-size: .5em;
+}
+
